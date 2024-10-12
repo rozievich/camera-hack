@@ -28,3 +28,16 @@ This project is for **educational purposes only**. Unauthorized access to device
    ```bash
    git clone https://github.com/your-username/camera-hacking-tetris.git
    cd camera-hacking-tetris
+
+
+
+
+
+---
+
+### How to Use:
+1. Copy everything inside the code block and save it as `README.md` in your project folder.
+2. Make sure to replace placeholders like `your-username`, `your.email@example.com`, and `Your GitHub Profile` with your actual information.
+3. The markdown file will display correctly when opened in GitHub or any markdown viewer.
+
+Let me know if you'd like further adjustments!
