@@ -26,18 +26,30 @@ This project is for **educational purposes only**. Unauthorized access to device
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/camera-hacking-tetris.git
-   cd camera-hacking-tetris
+   git clone https://github.com/your-username/camera-hack.git
+   cd camera-hack
 
+2. Install dependencies:
 
+   ```bash
+   pip install -r requirements.txt
 
+3. Run the Tetris game with camera access:
 
+   Linux (Unix):
+   ```bash
+   python3 tetris.py
+   ```
+   
+   Windows:
+   ```bash
+   python tetris.py
 
----
+## Contributing
 
-### How to Use:
-1. Copy everything inside the code block and save it as `README.md` in your project folder.
-2. Make sure to replace placeholders like `your-username`, `your.email@example.com`, and `Your GitHub Profile` with your actual information.
-3. The markdown file will display correctly when opened in GitHub or any markdown viewer.
+Contributions to improve the educational aspects of this project are welcome. If you have suggestions or find issues, feel free to create a pull request.
 
-Let me know if you'd like further adjustments!
+## License
+
+This project is licensed under the MIT License.
+
