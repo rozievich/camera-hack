@@ -26,7 +26,7 @@ This project is for **educational purposes only**. Unauthorized access to device
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/camera-hack.git
+   git clone https://github.com/rozievich/camera-hack.git
    cd camera-hack
 
 2. Install dependencies:
